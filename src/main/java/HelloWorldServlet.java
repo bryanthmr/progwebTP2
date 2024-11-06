@@ -14,7 +14,7 @@ public class HelloWorldServlet extends HttpServlet {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
         out.println("<html><body>");
-        out.println("<h1>Hello world, this is my first servlet with Jakarta EE</h1>");
+        out.println("<h1>Hello world, c'est mon 1er servlet !</h1>");
         out.println("</body></html>");
     }
 }
