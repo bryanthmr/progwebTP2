@@ -1,0 +1,12 @@
+TP2 Report:
+
+index.html prend 2 paramètres: username et password
+
+username: test
+password: test
+
+Le bouton submit envoie les données à la page LoginServlet qui vérifie si les paramètres sont corrects.
+
+Ensuite si tout est bon, LoginServlet va générer la page qui permettra le redirect
+
+Enfin en choisissant la page à laquelle on veut se rediriger, on envoie les paramètres action et URL à RedirectServlet qui va rediriger vers la page choisie.

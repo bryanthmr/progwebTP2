@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tp2_progweb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tp2_progweb_jar</output-path>
+    <root id="archive" name="tp2_progweb.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
